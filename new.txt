@@ -1,0 +1,3 @@
+Hello world
+
+Newly added blue.css stylesheet
